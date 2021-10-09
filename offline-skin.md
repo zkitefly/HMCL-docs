@@ -7,7 +7,7 @@ toc: true
 ---
 
 > 本文由 kitefly 编写
-> qiaoshouzi 对其进行了重写
+> 且 qiaoshouzi 对其进行了重写
 
 # 离线模式下更换皮肤
 
