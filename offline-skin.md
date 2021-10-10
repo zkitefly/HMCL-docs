@@ -28,7 +28,7 @@ toc: true
 >
 > Alex: 使用Alex(艾利克斯)皮肤显示
 >
-> [本地皮肤图片文件](#本地皮肤图片文件)、[LittleSkin](#LittleSkin)、[Blessing Skin 服务器](#Blessing Skin 服务器): 见下面
+> [本地皮肤图片文件](#本地皮肤图片文件)、[LittleSkin](#littleskin)、[Blessing Skin 服务器](#Blessing Skin 服务器): 见下面
 
 ## 本地皮肤图片文件
 
