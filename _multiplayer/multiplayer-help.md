@@ -30,6 +30,12 @@ The passages were written in Simplified Chinese. If you want to help translate t
 
 ![](/assets/img/docs/multiplayer/help/-0.png)
 
+### 视频教程
+
+![创建方操作视频](https://hmcl.huangyuhui.net/api/redirect/multiplayer-tutorial-master)
+
+![参与者教学视频](https://hmcl.huangyuhui.net/api/redirect/multiplayer-tutorial-slave)
+
 ### 零、使用管理员权限启动 HMCL
 
 *这一步的原因是 HiPer 的底层原理需要管理员权限*
