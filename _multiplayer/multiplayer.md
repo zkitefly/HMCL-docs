@@ -28,7 +28,7 @@ HMCL 联机模块使用了第三方软件 HiPer，所以您也需要同意 [用�
 
 4. [创建方操作视频](https://hmcl.huangyuhui.net/api/redirect/multiplayer-tutorial-master)
 
-4. [参与者教学视频](https://hmcl.huangyuhui.net/api/redirect/multiplayer-tutorial-slave)
+5. [参与者教学视频](https://hmcl.huangyuhui.net/api/redirect/multiplayer-tutorial-slave)
 
 ## 使用授权
 
