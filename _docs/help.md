@@ -1,6 +1,6 @@
 ---
 title:  "寻求帮助"
-permalink: /help.html
+permalink: /help
 date:   2021-10-09 23:18:02 +0800
 categories: 启动器
 toc: true
