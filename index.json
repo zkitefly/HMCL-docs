@@ -8,9 +8,14 @@
                 "url": "https://docs.hmcl.net/launcher/datapack.html"
             },
             {
-                "title": "OptiFine 与光影",
-                "subtitle": "OptiFine 与光影的安装方法",
-                "url": "https://docs.hmcl.net/launcher/optifine.html"
+                "title": "光影",
+                "subtitle": "光影的安装方法",
+                "url": "https://docs.hmcl.net/launcher/shader.html"
+            },
+            {
+                "title": "设置项详解",
+                "subtitle": "这篇文章针对于HMCL的各个设置项进行了详细的解释",
+                "url": "https://docs.hmcl.net/launcher/set-item-details.html"
             },
             {
                 "title": "离线模式下更换皮肤",
@@ -48,19 +53,9 @@
         "title": "多人联机",
         "items": [
             {
-                "title": "多人联机常见问题",
-                "subtitle": "多人联机常见问题",
-                "url": "https://docs.hmcl.net/multiplayer/faq.html"
-            },
-            {
-                "title": "多人联机教程",
-                "subtitle": "多人联机教程端",
-                "url": "https://docs.hmcl.net/multiplayer/help.html"
-            },
-            {
-                "title": "NAT 网络检测为差的时候怎么办？",
-                "subtitle": "NAT 网络检测为差的时候怎么办？",
-                "url": "https://docs.hmcl.net/multiplayer/symmetric.html"
+                "title": "多人联机服务维护",
+                "subtitle": "多人联机服务维护",
+                "url": "https://www.bilibili.com/read/cv19553778"
             }
         ]
     }
