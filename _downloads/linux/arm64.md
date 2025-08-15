@@ -1,27 +1,23 @@
 ---
-title:  "下载 HMCL 和 Minecraft 依赖的 Java"
+title:  "下载适用于 Linux ARM64 的 HMCL 和 Minecraft 依赖的 Java"
 permalink: /downloads/linux/arm64.html
 date:   2022-12-03 17:30:00 +0800
 categories: Java 下载
-toc: falst
+toc: false
 ---
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fdocs.hmcl.net%2Fdownloads%2Flinux%2Farm64.html&count_bg=%233E4245&title_bg=%233E4245&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%80&edge_flat=false)
+![Hits](https://hits.zkitefly.eu.org/?tag=https%3A%2F%2Fdocs.hmcl.net%2Fdownloads%2Flinux%2Farm64.html)
 
-### Java 安装包已开始下载，请等待 Java 安装程序下载完成，然后使用包管理器执行安装步骤
+点下面的链接以下载 Java ，然后使用软件包管理器或者手动解压安装。
 
-### 没有下载？[点击此处开始下载](https://download.bell-sw.com/java/17.0.5+8/bellsoft-jre17.0.5+8-linux-aarch64-full.deb)
+[链接](https://bell-sw.com/pages/downloads/?version=java-21&os=linux&package=jre-full&bitness=64&architecture=arm#:~:text=All%20versions)
 
-### 想使用其他安装程序？[DEB](https://download.bell-sw.com/java/17.0.5+8/bellsoft-jre17.0.5+8-linux-aarch64-full.deb) | [RPM](https://download.bell-sw.com/java/17.0.5+8/bellsoft-jre17.0.5+8-linux-aarch64-full.rpm) | [TAR.GZ](https://download.bell-sw.com/java/17.0.5+8/bellsoft-jre17.0.5+8-linux-aarch64-full.tar.gz)
+或者你也可以根据[教程](https://docs.bell-sw.com/liberica-jdk/latest/general/install-guide/#linux)来添加仓库到你的软件包管理器。
 
-### The Java installer has started downloading, please wait for the Java installer to finish downloading, then use the package manager to perform the installation steps
+---
 
-### No download? [Click here to start downloading](https://download.bell-sw.com/java/17.0.5+8/bellsoft-jre17.0.5+8-linux-aarch64-full.deb)
+Click one of the following links to download Java, and then use the package or extract it manually to install Java.
 
-### Want to use another installer? [DMG](https://download.bell-sw.com/java/17.0.5+8/bellsoft-jre17.0.5+8-linux-aarch64-full.deb) | [PKG](https://download.bell-sw.com/java/17.0.5+8/bellsoft-jre17.0.5+8-linux-aarch64-full.rpm) | [TAR.GZ](https://download.bell-sw.com/java/17.0.5+8/bellsoft-jre17.0.5+8-linux-aarch64-full.tar.gz)
+[Link](https://bell-sw.com/pages/downloads/?version=java-21&os=linux&package=jre-full&bitness=64&architecture=arm#:~:text=All%20versions)
 
-
-<script>
-    window.location.href = "https://download.bell-sw.com/java/17.0.5+8/bellsoft-jre17.0.5+8-linux-aarch64-full.deb";
-</script>
-
+Or you can add the repository to the package manager according to the [instruction](https://docs.bell-sw.com/liberica-jdk/latest/general/install-guide/#linux).

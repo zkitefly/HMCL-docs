@@ -1,12 +1,12 @@
 ---
 title:  "Nginx作为静态资源服务器，使用HMCL启动器配置服务器客户端自动更新"
-permalink: /modpack/serverpack2.html
+permalink: /modpack/serverpack3.html
 date:   2023-01-11 14:13:45 +0800
 categories: 整合包
 toc: true
 ---
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fdocs.hmcl.net%2Fmodpack%2Fserverpack3.html&count_bg=%233E4245&title_bg=%233E4245&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%80&edge_flat=false)
+![Hits](https://hits.zkitefly.eu.org/?tag=https%3A%2F%2Fdocs.hmcl.net%2Fmodpack%2Fserverpack3.html)
 
 > 本文由 buggzd 编写。
 
@@ -261,4 +261,3 @@ unzip /home/ftp/client2.0.zip -d /minecraftClientStatic/modepack
 > HMCL官方文章：https://hmcl.huangyuhui.net/help/launcher/serverpack.html
 > 使用Gitee作为静态资源服务器：https://www.kdocs.cn/l/ck0hwms5llq8
 > Nginx配置静态资源服务器：https://buggzd.github.io/2023/01/11/Nginx%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%BD%BF%E7%94%A8/
-

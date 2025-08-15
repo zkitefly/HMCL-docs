@@ -6,7 +6,7 @@ categories: 启动器
 toc: true
 ---
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fdocs.hmcl.net%2Flauncher%2Fauto-installing.html&count_bg=%233E4245&title_bg=%233E4245&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%80&edge_flat=false)
+![Hits](https://hits.zkitefly.eu.org/?tag=https%3A%2F%2Fdocs.hmcl.net%2Flauncher%2Fauto-installing.html)
 
 > 本文由 asdqp233 编写。
 
@@ -14,7 +14,7 @@ toc: true
 
 当你在安装新的游戏客户端时候, 会看到其中有
 
-`Forge, LiteLoader, Fabric, Quilt`这 4 个 Mod 加载器可供选择。
+`Forge, LiteLoader, Fabric, Quilt` 这 4 个 Mod 加载器可供选择。
 
 以及 `Fabric API, QSL/QFAPI` 这两个随 Fabric 与 Quilt 的 API（实际是模组）可供选择。
 
@@ -22,19 +22,19 @@ toc: true
 
 当你使用 1.14 及以上的游戏版本时, 推荐使用 *Fabric*
 
-1.14 以下的版本推荐使用 *Forge* 
+1.14 以下的版本推荐使用 *Forge*
 
 *LiteLoader* 只适用于 1.12.2 及以前的版本 (目前已停更)
 
-**注意: 
+**注意：**
 
 选择完合适的Mod加载器之后就可以点击右下角的`安装`继续进行安装。
 
-**注意: **
+**注意：**
 
-***LiteLoader* 和 *Forge* 是兼容的 ( *Forge* 较新版本和 *LiteLoader* 较老版本可能不兼容)**
+***LiteLoader* 和 *Forge* 是兼容的 (*Forge* 较新版本和 *LiteLoader* 较老版本可能不兼容)**
 
-***Fabric* 和 *Forge* 不兼容!****
+***Fabric* 和 *Forge* 不兼容!**
 
 **如果选择 *Fabric* , 那么建议同时选择 *Fabric API***
 
@@ -56,7 +56,7 @@ HMCL 内置了 CurseForge 和 Modrinth 下载源的搜索和下载功能, 目前
 
 ![AddingModAutomatically](/assets/img/docs/auto-installing/AutoInstaller_ModAutoAdding.png)
 
-#### Fabric Mod / Quilt Mod 
+#### Fabric Mod / Quilt Mod
 
 *Fabric Mod* 和 *Quilt Mod* 的安装和 *Forge Mod* 的安装类似, [参照上文](#forge-mod)。
 
@@ -72,9 +72,9 @@ HMCL 内置了 CurseForge 和 Modrinth 下载源的搜索和下载功能, 目前
 
 **注意: LiteLoader 只能加载文件后缀为 litemod 的模组, *Forge Mod*、*Fabric Mod* 和 *Quilt Mod*等修改后缀的方法 LiteLoader 是无法检测。**
 
-#### Optifine
+#### OptiFine
 
-[详情请查阅此](/launcher/optifine.html)
+[详情请查阅此](/launcher/shader.html)
 
 ### 手动安装
 

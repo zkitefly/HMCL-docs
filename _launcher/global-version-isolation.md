@@ -6,20 +6,20 @@ categories: 启动器
 toc: true
 ---
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fdocs.hmcl.net%2Flauncher%2Fisolation.html&count_bg=%233E4245&title_bg=%233E4245&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%80&edge_flat=false)
+![Hits](https://hits.zkitefly.eu.org/?tag=https%3A%2F%2Fdocs.hmcl.net%2Flauncher%2Fisolation.html)
 
 > 本文由 LIPiston 编写。
 
 这是一个游戏客户端很多不方便寻找的最佳解决方案<br/>
-**注意：改方法会改变默认的 minecraft 文件结构**
+**注意：该方法会改变默认的 minecraft 文件结构**
 
 ## 使用方式
 进入 hmcl 的`设置`
-![](\assets\img\docs\Global-version-isolation\img.png)
+![](\assets\img\docs\Global-version-isolation\img.webp)
 在全局设置中找到 `版本隔离`
 改为 `各版本独立`
-![](\assets\img\docs\Global-version-isolation\img1.png)
-这时候 minecraft 的文件结构就会有所改变
+![](\assets\img\docs\Global-version-isolation\img2.webp)
+这时候 minecraft 的文件结构就会有所改变，如下方
 ```
 .minecraft
 |*asstes
@@ -32,15 +32,15 @@ toc: true
         |*logs
         |*mods
         |*config
-        ......
+        ...
 ```
 并非在 .minecraft 文件夹中存储一切的 mod 和 资源包**而是各版本的资源互相独立**
 
 这样你就可以在一个目录下，安装多个客户端
 
 ## 往后的使用
-在做完版本隔离的设置后，hmcl 的快速打开各个游戏文件夹的功能就会显得十分重要。
-![](/assets/img/docs/Global-version-isolation/img2.png)
+在做完版本隔离的设置后，hmcl 的快速打开各个游戏文件夹的功能就会显得十分好用。
+![](/assets/img/docs/Global-version-isolation/img1.png)
 
-善用该功能也可为你的磁盘剩下不少的空间
+~~善用该功能也可为你的磁盘剩下不少的空间~~，现在反思过来其实都差不多
 
